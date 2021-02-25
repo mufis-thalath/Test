@@ -1,3 +1,3 @@
 # Test
 Initial test
-Just an initla test page
+Just an initial test page
